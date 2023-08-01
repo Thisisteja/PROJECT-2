@@ -6,6 +6,8 @@ The remotely controlled smart home system using GSM and IoT is designed to provi
 ## Detailed Description
 The remotely controlled smart home system is designed to provide homeowners with a convenient and secure way to manage their homes from anywhere in the world. The system leverages GSM and IoT technology to enable remote control of various devices and appliances in the home, such as lighting, heating, and security systems.
 ## Block Diagram
+![Block-diagram-of-Smart-Home-Automation-System](https://github.com/Thisisteja/PROJECT-2/assets/140914817/0c24b2df-55e8-469a-83a4-bc9101c48bc4)
+
 ## Design
 1.The system is designed to be user-friendly, with an intuitive interface that is easy to navigate.
 
@@ -44,3 +46,5 @@ The remotely controlled smart home system will also include advanced safety feat
 3.Reliance on stable and reliable internet and GSM network connectivity, which may not be available in all areas or during certain times.
 
 ## output
+![gsm_based_home_automation_system_with_iot](https://github.com/Thisisteja/PROJECT-2/assets/140914817/78a25a39-9367-4a43-9987-be97ee7da9f6)
+
